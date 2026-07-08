@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Hello%20World,%20I'm%20Punya%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20%26%20AI%20Specialist&descAlignY=58&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Hello%20World,%20I%27m%20Punya%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20and%20AI%20Specialist&descAlignY=58&descAlign=62" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Building+Enterprise+Scale+Systems;Architecting+AI%2FML+Solutions;Full+Stack+Product+Engineering" alt="Typing SVG" /></a>
   
