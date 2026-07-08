@@ -163,17 +163,6 @@ Focused on fundamental Machine Learning concepts and data optimization.
 
 ---
 
-## ✦ Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Knight-240046?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-5_Star-3C096C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Gold-5A189A?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4_Star-7B2CBF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</div>
-
----
-
 ## ✦ GitHub Analytics
 
 <div align="center">
@@ -220,7 +209,7 @@ Current_Status:
   Learning: "Advanced Machine Learning, Distributed Systems"
   Building: "Briefify, Elementa (Enterprise AI Hub)"
   Exploring: "Generative AI, Multi-Agent Architectures"
-  Open_To: "Software Engineering & Machine Learning roles"
+  Open_To: "Software Engineering, AI Engineer & Machine Learning roles"
 ```
 
 ---
