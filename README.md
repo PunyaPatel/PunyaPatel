@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-240046?style=for-the-badge&logo=Web&logoColor=white" /></a>
+  <a href="https://punyapatel.me"><img src="https://img.shields.io/badge/Portfolio-240046?style=for-the-badge&logo=Web&logoColor=white" /></a>
   <a href="https://linkedin.com/in/punya-patel-9720253a4"><img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:punya1263@gmail.com"><img src="https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="https://github.com/PunyaPatel"><img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
