@@ -220,7 +220,7 @@ Current_Status:
   <a href="mailto:punya1263@gmail.com"><img src="https://img.shields.io/badge/Gmail-240046?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/punya-patel-9720253a4"><img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/PunyaPatel"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://punyapatel.me"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=web&logoColor=white" /></a>
 </div>
 
 ---
